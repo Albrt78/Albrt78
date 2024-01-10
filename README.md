@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Albrt78
 - 👀 I’m interested in tech
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning web programming
+- 💞️ I’m looking to collaborate on someone
+- 📫 How to reach me, you can reach me from here
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: nothing😄😄😄
 
 <!---
 Albrt78/Albrt78 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
