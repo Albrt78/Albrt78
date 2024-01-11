@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Albrt78
-- 👀 I’m interested in tech
+- 👀 I’m interested in tech, programming and music
 - 🌱 I’m currently learning web programming
 - 💞️ I’m looking to collaborate on someone
 - 📫 How to reach me, you can reach me in here
