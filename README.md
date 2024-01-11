@@ -2,7 +2,7 @@
 - 👀 I’m interested in tech
 - 🌱 I’m currently learning web programming
 - 💞️ I’m looking to collaborate on someone
-- 📫 How to reach me, you can reach me from here
+- 📫 How to reach me, you can reach me in here
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: nothing😄😄😄
 
